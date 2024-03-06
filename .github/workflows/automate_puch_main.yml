@@ -10,7 +10,7 @@ env:
   ECR_REPOSITORY: loan_flask_app
   ECR_SERVICE: loan_flask_app_service
   ECS_CLUSTER: loan_app_cl1
-  ECS_TASK: ts.json
+  ECS_TASK: td.json
   CONTAINER_NAME: loan_app_container1
 
 jobs:
